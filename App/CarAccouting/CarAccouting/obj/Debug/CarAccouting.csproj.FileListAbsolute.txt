@@ -1,0 +1,14 @@
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe.config
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.pdb
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.csproj.AssemblyReference.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.AuthenticateForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.MainForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.Properties.Resources.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.csproj.GenerateResource.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.csproj.CoreCompileInputs.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.exe
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.pdb
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.EmployeeForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.DriverForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Учет авто\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.CarForm.resources

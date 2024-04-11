@@ -1,0 +1,79 @@
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe.config
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.pdb
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.AssemblyReference.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.AuthenticateForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.RentalForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.OwnerForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.EmployeeForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.MainForm.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.Properties.Resources.resources
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.GenerateResource.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.CoreCompileInputs.cache
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.exe
+C:\Users\napap\OneDrive\Рабочий стол\Freelance\Калым\Жилищный кооператив\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.pdb
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe.config
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.exe
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\CarAccouting.pdb
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.AssemblyReference.cache
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.AuthenticateForm.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.RentalForm.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.OwnerForm.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.EmployeeForm.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.MainForm.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.Properties.Resources.resources
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.GenerateResource.cache
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.CoreCompileInputs.cache
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.exe
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\CarAccouting.pdb
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Remotion.Linq.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Buffers.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Interactive.Async.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Memory.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\Remotion.Linq.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Buffers.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Interactive.Async.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Memory.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Baimu\Desktop\ЖК\App\CarAccouting\CarAccouting\obj\Debug\HousingCooperative.csproj.CopyComplete
